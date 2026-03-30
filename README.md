@@ -39,3 +39,4 @@ docker-compose up --build
 ## 授權條款
 
 本課程的所有內容（包含網站原始碼、講義、習題與課程影片）皆採用 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。如需了解更多關於貢獻或翻譯的資訊，請參考[這裡](https://missing.csail.mit.edu/license)。
+
